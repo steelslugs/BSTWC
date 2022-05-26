@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: BSTWC_main3
+ * Plugin Name: BSTWC_main
  * Description: Convert bootstrap studio exports to Wordpress Themes.
  */
 
@@ -151,7 +151,8 @@
 
             //get the begining of the html to the start of the first nav.
             $begining = $cutnavarray[0];
-
+            
+            //more needed
             //cut the begining out of the array so the array holds only arrays of 2 elememts the first being the nav section
             //and thw second being the html from the end nav to the start of the nav of the next navgation.  
             array_splice($cutnavarray,0,1);
