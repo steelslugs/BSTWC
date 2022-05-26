@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: BSTWC_main
+ * Plugin Name: BSTWC_main3
  * Description: Convert bootstrap studio exports to Wordpress Themes.
  */
 
